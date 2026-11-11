@@ -1,0 +1,8 @@
+OSI-communication/*.build.o
+OSI-communication/*.d
+OSI-communication/osi_client
+OSI-communication/osi_server
+OSI-communication/osi_client.exe
+OSI-communication/osi_server.exe
+python/__pycache__/
+tests/__pycache__/
